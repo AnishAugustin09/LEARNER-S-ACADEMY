@@ -1,6 +1,7 @@
 # LEARNER-S-ACADEMY
 An online management system
-This application is an online management application for LEARNERS ACADEMY School. Where you can see all the Teachers list, Students list, Class list & Subjects list.
+
+This application is an online management application for LEARNERS ACADEMY School, Where you can see & track all the Teachers list, Students list, Class list & Subjects list and you can assign subjects to the classes and students.
 
 Use ( Admin ID as LA1 & Password as 121212 ) for your reference.
 
